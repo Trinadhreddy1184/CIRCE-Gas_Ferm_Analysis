@@ -82,7 +82,7 @@ pip install -r requirements.txt
    - The summary is saved as:
      - `summary.json`
    - Visualizations are saved as:
-     - `interactive_scatterplot.png`
+     - `summary_scatterplot.png`
 
 ## Interaction of Classes
 
