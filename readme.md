@@ -98,7 +98,48 @@ pip install -r requirements.txt
 - **Integration:** Averaged data is computed.
 - **Analysis:** Run data and summary statistics are generated.
 - **Visualization:** Data trends are plotted for stakeholder interpretation.
+```
++-----------------------------+
+|         Main Method         |
++-----------------------------+
+             |
+             v
++-----------------------------+
+|      BlueVisData Class      |
+| Process BlueVis raw data    |
++-----------------------------+
+             |
+             v
++-----------------------------+
+|      SolarisData Class      |
+| Process Solaris raw data    |
++-----------------------------+
+             |
+             v
++-----------------------------+
+|     AveragedData Class      |
+| Combine BlueVis and Solaris |
++-----------------------------+
+             |
+             v
++-----------------------------+
+|       RunData Class         |
+| Process with calibration    |
++-----------------------------+
+             |
+             v
++-----------------------------+
+|   SummaryCalculator Class   |
+| Calculate summary metrics   |
++-----------------------------+
+             |
+             v
++-----------------------------+
+|     DataVisualizer Class    |
+| Generate visualizations     |
++-----------------------------+
 
+```
 ## Summary
 The **Gas Analysis Automation** project simplifies the cumbersome manual workflow of processing gas detector data. It ensures accuracy, automates calculations, and delivers actionable insights in clear visual and summarized formats. This modular approach allows for easy adaptation and scaling for future needs.
 
