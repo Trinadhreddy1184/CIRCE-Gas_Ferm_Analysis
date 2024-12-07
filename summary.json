@@ -1,0 +1,164 @@
+{
+                    "Growth": {
+                                        "Start": "2023/10/25 13:47 PM",
+                                        "End": "2023/10/26 12:05 PM",
+                                        "Elapsed Fermentation Time": {
+                                                            "Start": 0.0,
+                                                            "End": 10.183333333333334,
+                                                            "Unit": "hrs"
+                                        },
+                                        "Stabilization Time of g/g Data": {
+                                                            "Value": 20,
+                                                            "Unit": "hrs"
+                                        },
+                                        "Totals": {
+                                                            "Hydrogen Consumed/Biomass": {
+                                                                                "Value": Infinity,
+                                                                                "Unit": "g/g"
+                                                            },
+                                                            "Carbon Dioxide Consumed/Biomass": {
+                                                                                "Value": Infinity,
+                                                                                "Unit": "g/g"
+                                                            },
+                                                            "Oxygen Consumed/Biomass": {
+                                                                                "Value": Infinity,
+                                                                                "Unit": "g/g"
+                                                            },
+                                                            "Hydrogen Consumed/Volume": {
+                                                                                "Value": 0.24323534864833718,
+                                                                                "Unit": "g/L"
+                                                            },
+                                                            "Carbon Dioxide Consumed/Volume": {
+                                                                                "Value": 2.2605129927242023,
+                                                                                "Unit": "g/L"
+                                                            },
+                                                            "Oxygen Consumed/Volume": {
+                                                                                "Value": 0.352322178315262,
+                                                                                "Unit": "g/L"
+                                                            }
+                                        },
+                                        "Maximums": {
+                                                            "EFT Time Range": {
+                                                                                "Start": 9.183333333333334,
+                                                                                "End": 10.183333333333334,
+                                                                                "Unit": "hrs"
+                                                            },
+                                                            "Hydrogen Consumption Rate": {
+                                                                                "Value": 0.0,
+                                                                                "Unit": "mmol/L/hr"
+                                                            },
+                                                            "Carbon Dioxide Consumption Rate": {
+                                                                                "Value": 0.0,
+                                                                                "Unit": "mmol/L/hr"
+                                                            },
+                                                            "Oxygen Consumption Rate": {
+                                                                                "Value": 0.0,
+                                                                                "Unit": "mmol/L/hr"
+                                                            }
+                                        },
+                                        "Averages": {
+                                                            "Hydrogen Consumption/Biomass/Hr": {
+                                                                                "Value": NaN,
+                                                                                "Unit": "g/g/hr"
+                                                            },
+                                                            "Carbon Dioxide Consumption/Biomass/Hr": {
+                                                                                "Value": NaN,
+                                                                                "Unit": "g/g/hr"
+                                                            },
+                                                            "Oxygen Consumption Rate /Hr": {
+                                                                                "Value": NaN,
+                                                                                "Unit": "g/g/hr"
+                                                            }
+                                        },
+                                        "Stoichiometry": {
+                                                            "Actual": "null",
+                                                            "Literature": "null"
+                                        },
+                                        "% Mixotrophy": "null"
+                    },
+                    "Production": {
+                                        "Start": "2023/10/26 16:50 PM",
+                                        "End": "2023/10/27 15:07 PM",
+                                        "Elapsed Fermentation Time": {
+                                                            "Start": 10.183333333333334,
+                                                            "End": 10.183333333333334,
+                                                            "Unit": "hrs"
+                                        },
+                                        "Totals": {
+                                                            "Hydrogen Consumed/Biomass": {
+                                                                                "Value": NaN,
+                                                                                "Unit": "g/g"
+                                                            },
+                                                            "Carbon Dioxide Consumed/Biomass": {
+                                                                                "Value": NaN,
+                                                                                "Unit": "g/g"
+                                                            },
+                                                            "Oxygen Consumed/Biomass": {
+                                                                                "Value": NaN,
+                                                                                "Unit": "g/g"
+                                                            },
+                                                            "Hydrogen Consumed/Volume": {
+                                                                                "Value": 0.0,
+                                                                                "Unit": "g/L"
+                                                            },
+                                                            "Carbon Dioxide Consumed/Volume": {
+                                                                                "Value": 0.0,
+                                                                                "Unit": "g/L"
+                                                            },
+                                                            "Oxygen Consumed/Volume": {
+                                                                                "Value": 0.0,
+                                                                                "Unit": "g/L"
+                                                            },
+                                                            "Hydrogen Consumed/TAG": {
+                                                                                "Value": NaN,
+                                                                                "Unit": "g/g"
+                                                            },
+                                                            "Carbon Dioxide Consumed/TAG": {
+                                                                                "Value": NaN,
+                                                                                "Unit": "g/g"
+                                                            },
+                                                            "Oxygen Consumed/TAG": {
+                                                                                "Value": NaN,
+                                                                                "Unit": "g/g"
+                                                            }
+                                        },
+                                        "Maximums": {
+                                                            "EFT Time Range": {
+                                                                                "Start": 27.05,
+                                                                                "End": 30.0,
+                                                                                "Unit": "hrs"
+                                                            },
+                                                            "Hydrogen Consumption Rate": {
+                                                                                "Value": NaN,
+                                                                                "Unit": "mmol/L/hr"
+                                                            },
+                                                            "Carbon Dioxide Consumption Rate": {
+                                                                                "Value": NaN,
+                                                                                "Unit": "mmol/L/hr"
+                                                            },
+                                                            "Oxygen Consumption Rate": {
+                                                                                "Value": NaN,
+                                                                                "Unit": "mmol/L/hr"
+                                                            }
+                                        },
+                                        "Averages": {
+                                                            "Hydrogen Consumption/Biomass/Hr": {
+                                                                                "Value": NaN,
+                                                                                "Unit": "g/g/hr"
+                                                            },
+                                                            "Carbon Dioxide Consumption/Biomass/Hr": {
+                                                                                "Value": NaN,
+                                                                                "Unit": "g/g/hr"
+                                                            },
+                                                            "Oxygen Consumption Rate /Hr": {
+                                                                                "Value": NaN,
+                                                                                "Unit": "g/g/hr"
+                                                            }
+                                        },
+                                        "Stoichiometry": {
+                                                            "Actual": "",
+                                                            "Literature": ""
+                                        },
+                                        "% Mixotrophy": "Nan"
+                    }
+}
