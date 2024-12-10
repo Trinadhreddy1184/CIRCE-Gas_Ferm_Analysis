@@ -71,7 +71,7 @@ pip install -r requirements.txt
 2. **Execute the Bash Script**
    - Run the provided shell script with the input file name and start_time for Run data as a parameter:
    ```sh
-   ./run_data_processing.sh <input_filename.xlsx> 'start_time'
+   ./run.sh <input_filename.xlsx> 'start_time'
    ```
    This will execute all the necessary Python scripts sequentially.
 
